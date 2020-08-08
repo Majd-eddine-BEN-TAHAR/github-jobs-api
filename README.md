@@ -1,4 +1,4 @@
-## For live preview visit : [majd-github-jobs-api](https://majd-eddine-ben-tahar.github.io/github-jobs-api/)
+## For live preview visit : [majd.react-github-jobs-api](https://majd-eddine-ben-tahar.github.io/github-jobs-api/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
