@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/css/main.fcc42985.chunk.css",
-    "main.js": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/js/main.927e7950.chunk.js",
-    "main.js.map": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/js/main.927e7950.chunk.js.map",
-    "runtime-main.js": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/js/runtime-main.5feca56a.js",
-    "runtime-main.js.map": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/js/runtime-main.5feca56a.js.map",
-    "static/js/2.f6bedbd9.chunk.js": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/js/2.f6bedbd9.chunk.js",
-    "static/js/2.f6bedbd9.chunk.js.map": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/js/2.f6bedbd9.chunk.js.map",
-    "index.html": "/Majd-eddine-BEN-TAHAR/github-jobs-api/index.html",
-    "precache-manifest.849d165e7f1a30fd9e6b6b3ecd27f7cd.js": "/Majd-eddine-BEN-TAHAR/github-jobs-api/precache-manifest.849d165e7f1a30fd9e6b6b3ecd27f7cd.js",
-    "service-worker.js": "/Majd-eddine-BEN-TAHAR/github-jobs-api/service-worker.js",
-    "static/css/main.fcc42985.chunk.css.map": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/css/main.fcc42985.chunk.css.map",
-    "static/js/2.f6bedbd9.chunk.js.LICENSE.txt": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/js/2.f6bedbd9.chunk.js.LICENSE.txt",
-    "static/media/next.svg": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/media/next.ba838726.svg",
-    "static/media/previous.svg": "/Majd-eddine-BEN-TAHAR/github-jobs-api/static/media/previous.62e51539.svg"
+    "main.css": "/github-jobs-api/static/css/main.fcc42985.chunk.css",
+    "main.js": "/github-jobs-api/static/js/main.927e7950.chunk.js",
+    "main.js.map": "/github-jobs-api/static/js/main.927e7950.chunk.js.map",
+    "runtime-main.js": "/github-jobs-api/static/js/runtime-main.07e161dc.js",
+    "runtime-main.js.map": "/github-jobs-api/static/js/runtime-main.07e161dc.js.map",
+    "static/js/2.f6bedbd9.chunk.js": "/github-jobs-api/static/js/2.f6bedbd9.chunk.js",
+    "static/js/2.f6bedbd9.chunk.js.map": "/github-jobs-api/static/js/2.f6bedbd9.chunk.js.map",
+    "index.html": "/github-jobs-api/index.html",
+    "precache-manifest.292c9562deb74dfebed42d333ae0391f.js": "/github-jobs-api/precache-manifest.292c9562deb74dfebed42d333ae0391f.js",
+    "service-worker.js": "/github-jobs-api/service-worker.js",
+    "static/css/main.fcc42985.chunk.css.map": "/github-jobs-api/static/css/main.fcc42985.chunk.css.map",
+    "static/js/2.f6bedbd9.chunk.js.LICENSE.txt": "/github-jobs-api/static/js/2.f6bedbd9.chunk.js.LICENSE.txt",
+    "static/media/next.svg": "/github-jobs-api/static/media/next.ba838726.svg",
+    "static/media/previous.svg": "/github-jobs-api/static/media/previous.62e51539.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5feca56a.js",
+    "static/js/runtime-main.07e161dc.js",
     "static/js/2.f6bedbd9.chunk.js",
     "static/css/main.fcc42985.chunk.css",
     "static/js/main.927e7950.chunk.js"
