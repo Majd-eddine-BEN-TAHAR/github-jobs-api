@@ -1,0 +1,93 @@
+.Job {
+  width: 100%;
+  max-width: 1000px;
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid rgb(224, 221, 221);
+  border-radius: 5px;
+  text-align: justify;
+  overflow: hidden;
+}
+.title-company-logo {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.title {
+  font-size: 20px;
+  margin-top: 0px;
+  margin-right: 20px;
+}
+.company-name {
+  font-weight: 300;
+  opacity: 0.7;
+}
+.logo {
+  height: 37px;
+}
+.logo img {
+  height: 100%;
+}
+.date {
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 0px;
+  opacity: 0.5;
+}
+.time-place {
+  display: flex;
+}
+.type {
+  margin-top: 0px;
+  margin-right: 10px;
+  background-color: slategrey;
+  color: #fff;
+  border-radius: 10px;
+  padding: 3px 10px;
+}
+.location {
+  margin-top: 0px;
+
+  background-color: slategrey;
+  color: #fff;
+  border-radius: 10px;
+  padding: 3px 10px;
+}
+.details {
+  display: block;
+}
+.description {
+  padding: 10px;
+  font-size: 15px;
+  max-height: 0px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  transition: max-height 400ms linear;
+}
+.description-opened {
+  max-height: 150vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.link {
+  color: #009efb;
+  text-decoration: none;
+}
+.link:hover {
+  color: #6dc6fa;
+  text-decoration: underline;
+}
+.btn-description {
+  cursor: pointer;
+  position: relative;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 4px 13px;
+  border-radius: 5px;
+  text-transform: capitalize;
+  margin-bottom: 30px;
+}

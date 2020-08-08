@@ -1,0 +1,54 @@
+.PaginationContainer {
+  display: flex;
+  width: 100%;
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 10px;
+}
+.Pagination {
+  text-align: center;
+  background-color: #009efb;
+  color: white;
+  font-size: 20px;
+  width: min-content;
+  padding: 3px 14px;
+  border: 1px solid #3b84ad;
+  margin-right: 1px;
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.PaginationItem {
+  background-color: white;
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+  padding: 7px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1px;
+  border-radius: 3px;
+  cursor: pointer;
+  border: 1px solid #d5dde2;
+}
+.PaginationItem:hover {
+  background-color: #009ffb3d;
+}
+
+.PaginationItem img {
+  width: 15px;
+}
+
+.Active {
+  background-color: #009efb;
+  color: white;
+  cursor: unset;
+}
+
+.Active:hover {
+  background-color: #009efb;
+}
