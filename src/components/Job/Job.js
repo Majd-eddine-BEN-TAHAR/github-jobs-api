@@ -33,6 +33,7 @@ const Job = ({ job }) => {
         <h3 className="type">{job.type}</h3>
         <h3 className="location">{job.location}</h3>
       </div>
+      {/* eslint-disable-next-line */}
       <a className="link" href={job.url} target="_blank">
         {job.url}
       </a>

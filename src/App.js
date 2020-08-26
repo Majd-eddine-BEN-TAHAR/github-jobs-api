@@ -43,9 +43,11 @@ function App() {
       {loading && <h1>Loading...</h1>}
       {error && <h1>Error, try Refreshing</h1>}
       <div className="Jobs">
-        {jobs.map((job) => {
-          return <Job key={job.id} job={job} />;
-        })}
+        {jobs.length === 0 && !loading && !error
+          ? "No Jobs"
+          : jobs.map((job) => {
+              return <Job key={job.id} job={job} />;
+            })}
       </div>
       <JobPagination page={page} setPage={setPage} hasNextPage={hasNextPage} />
     </div>
