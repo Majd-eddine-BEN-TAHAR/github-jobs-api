@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/github-jobs-api/static/css/main.fcc42985.chunk.css",
-    "main.js": "/github-jobs-api/static/js/main.927e7950.chunk.js",
-    "main.js.map": "/github-jobs-api/static/js/main.927e7950.chunk.js.map",
+    "main.js": "/github-jobs-api/static/js/main.4d2b827d.chunk.js",
+    "main.js.map": "/github-jobs-api/static/js/main.4d2b827d.chunk.js.map",
     "runtime-main.js": "/github-jobs-api/static/js/runtime-main.07e161dc.js",
     "runtime-main.js.map": "/github-jobs-api/static/js/runtime-main.07e161dc.js.map",
     "static/js/2.f6bedbd9.chunk.js": "/github-jobs-api/static/js/2.f6bedbd9.chunk.js",
     "static/js/2.f6bedbd9.chunk.js.map": "/github-jobs-api/static/js/2.f6bedbd9.chunk.js.map",
     "index.html": "/github-jobs-api/index.html",
-    "precache-manifest.292c9562deb74dfebed42d333ae0391f.js": "/github-jobs-api/precache-manifest.292c9562deb74dfebed42d333ae0391f.js",
+    "precache-manifest.0f9a0714e8b01e75a9d238121735d166.js": "/github-jobs-api/precache-manifest.0f9a0714e8b01e75a9d238121735d166.js",
     "service-worker.js": "/github-jobs-api/service-worker.js",
     "static/css/main.fcc42985.chunk.css.map": "/github-jobs-api/static/css/main.fcc42985.chunk.css.map",
     "static/js/2.f6bedbd9.chunk.js.LICENSE.txt": "/github-jobs-api/static/js/2.f6bedbd9.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.07e161dc.js",
     "static/js/2.f6bedbd9.chunk.js",
     "static/css/main.fcc42985.chunk.css",
-    "static/js/main.927e7950.chunk.js"
+    "static/js/main.4d2b827d.chunk.js"
   ]
 }
