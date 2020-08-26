@@ -2,6 +2,7 @@ import React from "react";
 import "./SearchForm.css";
 
 const SearchForm = ({ params, onParamsChange }) => {
+  // console.log(params.location);
   return (
     <form action="" className="SearchForm">
       <div className="input-group">
@@ -10,7 +11,7 @@ const SearchForm = ({ params, onParamsChange }) => {
           name="location"
           type="text"
           onChange={onParamsChange}
-          value={params.description}
+          value={params.location}
         />
       </div>
 

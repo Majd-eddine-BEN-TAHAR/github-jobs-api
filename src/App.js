@@ -9,25 +9,29 @@ function App() {
   const [params, setParams] = useState({
     location: "",
     description: "",
-    full_time: "",
+    full_time: false,
   });
-  const [page, setPage] = useState(3);
+  const [page, setPage] = useState(1);
   const [jobs, loading, error, hasNextPage] = useFetch(params, page);
 
   const onParamsChange = (e) => {
     // get the input name and value, it's dynamic for inputs
     let paramName;
     let paramValue;
-    if ((e.target.name = "full_time")) {
+    if (e.target.name === "full_time") {
       paramName = e.target.name;
       paramValue = e.target.checked;
+      console.log(e.target.checked);
     } else {
       paramName = e.target.name;
       paramValue = e.target.value;
     }
     // return to first page when filtering
     setPage(1);
-    setParams((prevParams) => ({ ...params, [paramName]: paramValue }));
+    setParams((prevParams) => ({
+      ...prevParams,
+      [paramName]: paramValue,
+    }));
   };
 
   return (

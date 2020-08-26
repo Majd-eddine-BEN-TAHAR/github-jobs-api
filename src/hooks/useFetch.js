@@ -46,7 +46,7 @@ const useFetch = (params, page) => {
         .then((res) => {
           dispatch({ type: ACTIONS.GET_DATA, payload: { jobs: res.data } });
           // dispatch({ type: ACTIONS.MAKE_REQUEST, payload: { data: res } });
-          console.log(res);
+          // console.log(res);
         })
         .catch((err) => {
           dispatch({ type: ACTIONS.ERROR, payload: { error: err } });
